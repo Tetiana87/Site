@@ -111,7 +111,7 @@ body {
 
 .menu__mobile__checkbox:checked ~ .menu__mobile__navigation {
   background: #34547a;
-  top: 56px;
+  top: 40px;
   opacity: 1;
   visibility: visible;
   z-index: 8;
